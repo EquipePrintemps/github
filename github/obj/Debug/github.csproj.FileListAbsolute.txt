@@ -1,0 +1,5 @@
+C:\Workspace\github\github\bin\Debug\github.dll
+C:\Workspace\github\github\bin\Debug\github.pdb
+C:\Workspace\github\github\obj\Debug\github.csprojResolveAssemblyReference.cache
+C:\Workspace\github\github\obj\Debug\github.dll
+C:\Workspace\github\github\obj\Debug\github.pdb
