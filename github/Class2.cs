@@ -7,5 +7,6 @@ namespace github
 {
     class Class2
     {
+        //asdasdas dasdasd dsada dsdasds
     }
 }

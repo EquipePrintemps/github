@@ -7,6 +7,6 @@ namespace github
 {
     class Class3
     {
-        //toto
+        //toto dasdasdsadasd dasd das dasdas 
     }
 }
