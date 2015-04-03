@@ -54,6 +54,7 @@
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
+    <Compile Include="ClassAgnes.cs" />
     <Compile Include="ClassNew.cs" />
     <Compile Include="ClassRaymond.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
