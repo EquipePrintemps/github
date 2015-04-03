@@ -8,5 +8,6 @@ namespace github
     class ClassRaymond
     {
         //nouvelle classe de Raymond
+        //2e ligne
     }
 }
