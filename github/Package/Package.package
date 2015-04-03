@@ -1,3 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package dslVersion="1.0.0.0" Id="20880c6c-ee59-4d13-b2e0-9014362f376c" solutionId="20880c6c-ee59-4d13-b2e0-9014362f376c" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="github">
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="20880c6c-ee59-4d13-b2e0-9014362f376c" solutionId="20880c6c-ee59-4d13-b2e0-9014362f376c" resetWebServer="false" name="github" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="a63a52b5-c05e-4b9c-ab8e-cf46cda5132e" />
+  </features>
 </package>
