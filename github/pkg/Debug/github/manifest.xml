@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="20880c6c-ee59-4d13-b2e0-9014362f376c" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="github.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+</Solution>
