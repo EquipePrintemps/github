@@ -57,6 +57,7 @@
     <Compile Include="ClassAgnes.cs" />
     <Compile Include="ClassNew.cs" />
     <Compile Include="ClassRaymond.cs" />
+    <Compile Include="LatifaClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
