@@ -8,5 +8,6 @@ namespace github
     class Class4
     {
         //dasdasdasdasdasdasdasdasd
+        //ligne2
     }
 }
