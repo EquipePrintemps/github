@@ -59,6 +59,7 @@
     <Compile Include="ClassAgnes.cs" />
     <Compile Include="ClassNew.cs" />
     <Compile Include="ClassRaymond.cs" />
+    <Compile Include="ClassRaymond3.cs" />
     <Compile Include="LatifaClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WebPartAgnes\WebPartAgnes.cs" />
